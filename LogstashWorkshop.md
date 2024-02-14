@@ -1,9 +1,5 @@
 # Logstash Workshop
 
-## Overview
-
-* Setup Environment
-
 ### Setup Environment
 
 1. Click on the My lab button on the left if you have not done so.
@@ -44,28 +40,28 @@ Let's launch into Kibana so we can visualize our data after it has been ingested
 
 <img src="images/RemoteIP.png" width="400">
 
-3. Paste the DNS into a browser, add the port number for kibana `:5601` and hit enter. For example,
+3. Paste the DNS into a browser, add the port number for kibana `:5601` and hit enter. _For example_,
 
 ```
 ec2-54-216-22-207.eu-west-1.compute.amazonaws.com:5601
 ```
 
-4. When Kibana starts, please click on `explore on my own`
+4. When Kibana starts, please click on `Explore on my own`
 
 <img src="images/ExploreOnMyOwn.png" width="400">
 
-5. Click on the 3 - on the upper left and select on Discover
+5. Click on the 3 - on the upper left and select Discover
 
-<img src="images/Discover.png" width="400">
+<img src="images/Discover.png" width="300">
 
 6. Click on Create Data View
 
 <img src="images/CreateDataView.png" width="400">
 
-7. Enter `logstash` as Name and `logstash*` as Index Pattern. The field @timestamp should appear in the Timestamp field.
+7. Enter `logstash` as Name and `logstash*` as Index Pattern. The field `@timestamp` should appear in the Timestamp field.
 
-<img src="images/CreateDataView.png" width="400">
+<img src="images/LogstashDV.png" width="400">
 
-8. Select the last 2 years to see the data. (The access log is from 2 years ago)
+8. Select the last 2 years in time picker on the upper right to see the data. (The access log is from 2 years ago)
 
-<img src="images/CreateTimePickerDataView.png" width="400">
+<img src="images/TimePicker.png" width="400">
