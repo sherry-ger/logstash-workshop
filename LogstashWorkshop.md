@@ -46,7 +46,7 @@ ec2-54-216-22-207.eu-west-1.compute.amazonaws.com:5601
 
 5. Click on the 3 - on the upper left and select Discover
 
-<img src="images/Discover.png" width="400">
+<img src="images/Discover.png" width="300">
 
 6. Click on Create Data View
 
