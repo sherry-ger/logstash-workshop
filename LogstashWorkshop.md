@@ -54,8 +54,8 @@ ec2-54-216-22-207.eu-west-1.compute.amazonaws.com:5601
 
 7. Enter `logstash` as Name and `logstash*` as Index Pattern. The field @timestamp should appear in the Timestamp field.
 
-<img src="images/CreateDataView.png" width="400">
+<img src="images/LogstashDV.png" width="400">
 
 8. Select the last 2 years to see the data. (The access log is from 2 years ago)
 
-<img src="images/CreateTimePickerDataView.png" width="400">
+<img src="images/TimePicker.png" width="400">
