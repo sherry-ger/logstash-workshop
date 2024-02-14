@@ -1,9 +1,5 @@
 # Logstash Workshop
 
-## Overview
-
-* Setup Environment
-
 ### Setup Environment
 
 When the vm starts, you are automatically placed in your home directory.  You should have a file called `setup.sh`. Please run the file:
@@ -38,17 +34,17 @@ Let's launch into Kibana so we can visualize our data after it has been ingested
 
 <img src="images/RemoteIP.png" width="400">
 
-3. Paste the DNS into a browser, add the port number for kibana `:5601` and hit enter. For example,
+3. Paste the DNS into a browser, add the port number for kibana `:5601` and hit enter. _For example_,
 
 ```
 ec2-54-216-22-207.eu-west-1.compute.amazonaws.com:5601
 ```
 
-4. When Kibana starts, please click on `explore on my own`
+4. When Kibana starts, please click on `Explore on my own`
 
 <img src="images/ExploreOnMyOwn.png" width="400">
 
-5. Click on the 3 - on the upper left and select on Discover
+5. Click on the 3 - on the upper left and select Discover
 
 <img src="images/Discover.png" width="400">
 
