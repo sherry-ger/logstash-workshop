@@ -4,7 +4,7 @@
 
 1. Click on the My lab button on the left if you have not done so.
 
-<img src="/Labs/images/virtual_classroom_user_guide_lab-terminal.png" alt="virtual_class" width="500" height="300">
+<img src="images/virtual_classroom_user_guide_lab-terminal.png" alt="virtual_class" width="500" height="300">
 
 2. When the terminal comes up, you should be at `/home/ubuntu`
 
