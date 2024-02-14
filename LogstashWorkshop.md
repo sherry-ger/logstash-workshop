@@ -2,7 +2,7 @@
 
 ### Setup Environment
 
-1. Click on the My lab button on the left if you have not done so.
+1. Click on the My lab button on the left.
 
 <img src="images/virtual_classroom_user_guide_lab-terminal.png" alt="virtual_class" width="500" height="300">
 
